@@ -132,3 +132,10 @@ img {
    color: #E5E7EB;
 }
 
+.footer {
+    text-align: center;
+    font-size:small;
+    background-color:#1F2937;
+    padding: 50px;
+}
+
