@@ -98,3 +98,37 @@ img {
     margin-bottom: 60px;
 }
 
+.sectionthree {
+    background-color:#E5E7EB;
+    padding:100px 200px;
+}
+
+.quote {
+    font-size: 36px;
+    color: rgb(189, 182, 182);
+    font-weight:100px;
+}
+
+.sign {
+  font-weight:bold;
+  text-align:end;
+  color: #1F2937;
+}
+
+.sectionfour {
+    background-color:#3882F6;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    margin: 100px;
+    border-radius:8px;
+}
+.btnone {
+    border:2px solid white;
+}
+
+.signup {
+   color: #E5E7EB;
+}
+
